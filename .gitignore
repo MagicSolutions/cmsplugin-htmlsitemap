@@ -1,0 +1,7 @@
+*.py[co]
+*.mo
+*.log
+db.sqlite3
+local_settings.py*
+/*.sql
+
